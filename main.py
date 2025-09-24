@@ -82,3 +82,4 @@ if uploaded_pdf:
         for speaker, msg in st.session_state.chat_history:
             st.write(f"**{speaker}:** {msg}")
 
+
